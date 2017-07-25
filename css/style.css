@@ -1,0 +1,98 @@
+/* The fonts are from Google Fonts - go to https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+body{
+  margin: 0;
+  background-color: #56cbae;
+  font-family: 'Shrikhand', cursive; 
+}
+
+.main-body{
+  text-align: center;
+  font-family: 'Shrikhand', cursive;
+}
+
+h1{
+  margin-left: 15px;
+}
+
+/* Navigation */
+nav{
+  text-align: center;
+  background-color: #118669;
+  font-size: 20px;
+}
+
+nav ul{
+  list-style: none;
+  text-transform: uppercase;
+}
+
+nav li{
+  display: inline;
+}
+
+nav a{
+  display: inline-block;
+  padding: 30px;
+}
+
+a{
+  color: white;
+}
+
+a:hover {
+  color: aqua;
+  font-size: 20px;
+}
+/* End of Navigation*/
+
+/* Footer */
+.main-footer{
+  text-align: center;
+  padding: 30px;
+  font-family: 'Arvo', serif; 
+}
+
+.main-footer ul{
+  list-style: none;
+  padding: 0;
+}
+
+.main-footer li {
+  display: inline-block;
+}
+
+.main-footer a{
+  /*float: right;*/
+  display: auto;
+}
+/* End of Footer*/
+
+
+/* Images 100% */
+img{
+  width: 100%;
+}
+
+/* Fun Facts */
+.list {
+  text-align: left;
+  font-family: 'Shrikhand', cursive; 
+  
+}
